@@ -1,7 +1,7 @@
 [
     {
-        "name": "echo.neopackage",
-        "url" : "https://github.com/xxx/xxx/echo.neopackage.tar.gz",
-        "type": "tar-gz"
+        "name" : "echo.neopackage",
+        "url"  : "https://raw.githubusercontent.com/cmz26/NShPackage/refs/heads/main/build/echo.neopackage.tar.gz",
+        "type" : "tar-gz"
     }
 ]

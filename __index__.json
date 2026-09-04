@@ -1,0 +1,7 @@
+[
+    {
+        "name": "echo.neopackage",
+        "url" : "https://github.com/xxx/xxx/echo.neopackage.tar.gz",
+        "type": "tar-gz"
+    }
+]
